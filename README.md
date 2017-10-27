@@ -1,6 +1,7 @@
 # pic10c-final-project
 
 Idea 1: Game: Shoot Planes
+
   utilize: Qt and Visual Studio (C++)
   screen is divided into 3~5 sectors vertically
   Enemy airplanes (or aliens) fall from each sector: random
